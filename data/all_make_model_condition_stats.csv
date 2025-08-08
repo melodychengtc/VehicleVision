@@ -1,0 +1,395 @@
+make,model_name,condition,mean_price,median_price,mode_price,count
+Accord,Lx,Good,1999.0,1999.0,1999.0,1
+Accord,Sport,Good,20250.0,20250.0,18500.0,2
+Acura,RL,Good,3800.0,3800.0,3800.0,1
+Altima,SV,Good,6300.0,6300.0,6300.0,1
+Altima,Sv,Fair,5999.0,5999.0,5999.0,1
+Audi,A4,Good,3450.0,3450.0,3450.0,6
+Audi,A4 Tubro,Good,3450.0,3450.0,3450.0,1
+BMW,128I Convertible Limited Edition,Good,10800.0,10800.0,10800.0,2
+BMW,330ci E46 model,Good,4400.0,4400.0,4400.0,1
+BMW,750Li,Good,7000.0,7000.0,7000.0,1
+BMW,X3 xDrive35i,Good,13850.0,13850.0,13850.0,2
+BMW,X5,Good,4400.0,4400.0,4400.0,2
+Buick,Thunderbird,Excellent,6800.0,6800.0,6800.0,1
+CR-V,CR-V,Good,3750.0,3750.0,3750.0,1
+CRV,not available,Fair,5500.0,5500.0,5500.0,1
+CRV,unknown,Good,4600.0,4600.0,4600.0,1
+Cadillac,Deville,Good,4900.0,4900.0,4900.0,1
+Camry,LE,Good,6900.0,6900.0,6900.0,1
+Camry,Not available,Good,4800.0,4800.0,4800.0,1
+Camry,Toyota,Good,11000.0,11000.0,11000.0,1
+Camry,XLE V6,Good,1000.0,1000.0,1000.0,1
+Camry,not available,Good,3200.0,3200.0,3200.0,1
+Camry,v6,Good,1500.0,1500.0,1500.0,1
+Chevrolet,Bolt Ev,Good,11500.0,11500.0,11500.0,2
+Chevrolet,C10 Blazer,Good,92000.0,92000.0,92000.0,1
+Chevrolet,Express 1500 Camper Van RV,Good,15999.0,15999.0,15999.0,1
+Chevrolet,Impala,Excellent,26500.0,26500.0,26500.0,1
+Chevrolet,Impala,Good,34300.0,49000.0,49000.0,3
+Chevrolet,Impala Convertible SS 427,Excellent,39500.0,39500.0,39500.0,1
+Chevrolet,Impala SS 396 convertible,Good,55000.0,55000.0,55000.0,1
+Chevrolet,SS,Excellent,22500.0,22500.0,22500.0,1
+Chevrolet,Town Sedan,Good,25.0,25.0,25.0,1
+Chevy,Impala,Good,9627.5,4250.0,10.0,4
+Chevy,Impala Convertible,Fair,123456789.0,123456789.0,123456789.0,1
+Chevy,Impala Limited,Excellent,8500.0,8500.0,8500.0,1
+Chevy,Impala Super Sport,Good,35000.0,35000.0,35000.0,1
+Chevy,Silverado,Good,18500.0,18500.0,18500.0,2
+Chevy,Sonic Lt,Good,4250.0,4250.0,4250.0,6
+Chevy,Tahoe LS,Good,4500.0,4500.0,4500.0,3
+Chevy,Tahoe LS SUV,Good,4500.0,4500.0,4500.0,4
+Chrysler,ST REGIS,Good,12500.0,12500.0,12500.0,1
+Civic,Civic,Good,10500.0,10500.0,10500.0,1
+Civic,Dx,Fair,1000.0,1000.0,1000.0,1
+Civic,EXT,Fair,12495.0,12495.0,12495.0,1
+Civic,LX,Fair,600.0,600.0,600.0,1
+Civic,Si,Excellent,18500.0,18500.0,18500.0,1
+Corolla,CE,Good,3800.0,3800.0,3800.0,1
+Corolla,LE,Good,4450.0,4450.0,4450.0,1
+Corolla,S,Good,3000.0,3000.0,3000.0,1
+Corolla,Wagon,Excellent,3500.0,3500.0,3500.0,1
+Corolla,corolla,Fair,7900.0,7900.0,7900.0,1
+DODGE,RAM 1500,Good,2950.0,2950.0,2950.0,5
+DODGE,RAM 1500 Truck,Good,2950.0,2950.0,2950.0,1
+Dodge,RAM 1500,Good,2950.0,2950.0,2950.0,1
+FORD,EXPLORER SPORT,Good,9975.0,9975.0,9975.0,1
+FORD,FOCUS,Fair,4000.0,4000.0,4000.0,1
+Focus,SE,Good,4200.0,4200.0,4200.0,1
+Ford,Crown Victoria,Good,4750.0,4750.0,4750.0,4
+Ford,Crown Victoria LX,Good,4750.0,4750.0,4750.0,3
+Ford,Explorer,Excellent,2000.0,2000.0,2000.0,1
+Ford,Explorer,Fair,14500.0,14500.0,10500.0,2
+Ford,Explorer,Good,4388.913043478261,3000.0,3250.0,23
+Ford,Explorer Limited,Excellent,5200.0,5200.0,5200.0,1
+Ford,Explorer Limited,Fair,18999.0,18999.0,18999.0,1
+Ford,Explorer Sport,Good,3000.0,3000.0,3000.0,1
+Ford,Explorer Sport Trac,Fair,3200.0,3200.0,3200.0,1
+Ford,Explorer Sport platinum,Good,15500.0,15500.0,15500.0,1
+Ford,Explorer XLT,Good,4675.0,2750.0,2750.0,4
+Ford,F-150,Good,4950.0,4950.0,4950.0,7
+Ford,Fiesta,Fair,6500.0,6500.0,6500.0,5
+Ford,Focus,Fair,4925.0,5350.0,2800.0,4
+Ford,Focus,Good,3875.7368421052633,3799.0,3999.0,19
+Ford,Focus Electric,Good,4900.0,4900.0,4900.0,1
+Ford,Focus SE,Good,5150.0,5150.0,3500.0,2
+Ford,Focus ST,Good,13200.0,13200.0,10400.0,2
+Ford,Focus ZX3,Good,2150.0,2150.0,2150.0,1
+Ford,Focus ZX4 SE,Good,2750.0,2750.0,2750.0,6
+Ford,Focus hatchback,Good,5500.0,5500.0,5500.0,1
+Ford,FocusSE Hatchback 4D,Good,5800.0,5800.0,5800.0,1
+Ford,Fusion,Good,7000.0,7000.0,7000.0,1
+Ford,Fusion SEL,Good,7000.0,7000.0,7000.0,1
+Ford,Mustang,Good,21500.0,21500.0,21500.0,1
+Ford,Mustang Mach1 Coupe,Good,17981.0,17981.0,17981.0,1
+Ford,Windstar Van,Good,1995.0,1995.0,1995.0,3
+Ford,explorer,Good,10500.0,10500.0,10500.0,1
+GMC,HARBOR UTILITY BED,Good,10500.0,10500.0,10500.0,1
+Geo,Prizm/Toyota Corolla,Good,5300.0,5300.0,5300.0,1
+HONDA,ACCORD,Good,8266.666666666666,9950.0,9950.0,3
+HONDA,ACCORD 2DR COUPE EX,Good,1999.0,1999.0,1999.0,1
+HONDA,ACCORD EX COUPE,Fair,2200.0,2200.0,2200.0,1
+HONDA,CIVIC,Good,7800.0,7800.0,7800.0,1
+HONDA,CIVIC LX,Good,3000.0,3000.0,3000.0,1
+HONDA,CR-V LX,Good,10647.5,10647.5,10300.0,2
+HONDA,CRV,Good,4700.0,4700.0,4700.0,1
+Honda,Accord,Excellent,9900.0,9900.0,9900.0,1
+Honda,Accord,Fair,1400.6,1.0,1.0,5
+Honda,Accord,Good,6789.482758620689,6000.0,2200.0,29
+Honda,Accord 2D Coupe,Good,6500.0,6500.0,6500.0,1
+Honda,Accord DX,Good,3500.0,3500.0,3500.0,1
+Honda,Accord EX,Good,4850.0,3250.0,1875.0,8
+Honda,Accord EX-L,Good,6374.5,6374.5,4750.0,2
+Honda,Accord EX-L Hybrid,Good,17800.0,17800.0,17800.0,1
+Honda,Accord EX-L V6 Sedan,Good,7500.0,7500.0,7500.0,1
+Honda,Accord EXL,Fair,4800.0,4800.0,4800.0,1
+Honda,Accord EXL,Good,6500.0,6500.0,6500.0,1
+Honda,Accord EXL 1.5,Good,20950.0,20950.0,20950.0,1
+Honda,Accord EXL v6,Good,6000.0,6000.0,6000.0,1
+Honda,Accord Ex,Excellent,4150.0,4150.0,4150.0,1
+Honda,Accord Ex,Good,4000.0,4000.0,4000.0,1
+Honda,Accord Hybrid,Good,3750.0,3750.0,3750.0,1
+Honda,Accord Hybrid Touring,Good,12000.0,12000.0,12000.0,1
+Honda,Accord LX,Fair,3750.0,3750.0,3600.0,2
+Honda,Accord LX,Good,5449.5,5449.5,4400.0,2
+Honda,Accord LX Sedan 4-DOORS,Fair,6995.0,6995.0,6995.0,1
+Honda,Accord SE,Good,7100.0,7100.0,4200.0,2
+Honda,Accord Sport,Fair,11998.0,11998.0,11998.0,1
+Honda,Accord Sport,Good,7167.0,10500.0,1.0,3
+Honda,Accord Sport 2.0T,Good,19800.0,19800.0,19800.0,2
+Honda,Accord Touring Sedan,Fair,24995.0,24995.0,24995.0,1
+Honda,Accord V6 EXL,Fair,19500.0,19500.0,19500.0,1
+Honda,Accord lx,Fair,4500.0,4500.0,4500.0,1
+Honda,Accord sports,Good,16500.0,16500.0,16500.0,1
+Honda,CR-V,Excellent,8400.0,8400.0,8400.0,1
+Honda,CR-V,Fair,3250.0,3250.0,3000.0,2
+Honda,CR-V,Good,10913.333333333334,9500.0,3900.0,9
+Honda,CR-V (CRV),Good,13500.0,13500.0,13500.0,1
+Honda,CR-V EX,Good,16500.0,16500.0,16500.0,1
+Honda,CR-V EX AWD,Good,24500.0,24500.0,24500.0,1
+Honda,CR-V EX-L,Good,7622.5,7622.5,5495.0,2
+Honda,CR-V Ex,Good,8500.0,8500.0,8500.0,1
+Honda,CR-V Hybrid AWD Sport Touring,Good,33500.0,33500.0,33500.0,1
+Honda,CR-V LX,Good,10450.0,10450.0,10450.0,1
+Honda,CR-V LX 4D,Good,8800.0,8800.0,8800.0,1
+Honda,CR-V Sport Utility 4D,Excellent,4300.0,4300.0,4300.0,1
+Honda,CRV,Excellent,2800.0,2800.0,2800.0,1
+Honda,CRV,Good,10550.0,7900.0,4500.0,6
+Honda,CRV Ex,Good,5500.0,5500.0,5500.0,1
+Honda,CRV LX,Good,10300.0,10300.0,10200.0,2
+Honda,CRV Touring,Good,1.0,1.0,1.0,1
+Honda,CRX,Excellent,3500.0,3500.0,3500.0,1
+Honda,Civic,Fair,2437.25,2125.0,1500.0,4
+Honda,Civic,Good,5595.833333333333,4800.0,3200.0,24
+Honda,Civic,Poor,15000.0,15000.0,15000.0,1
+Honda,Civic (Hybrid),Good,4450.0,4450.0,4300.0,2
+Honda,Civic Coupe,Good,4600.0,4600.0,4600.0,1
+Honda,Civic Coupe Turbo,Fair,7500.0,7500.0,7500.0,1
+Honda,Civic DX,Good,3382.5,3382.5,1475.0,2
+Honda,Civic Dx hatchback,Excellent,5800.0,5800.0,5800.0,1
+Honda,Civic EX,Good,6934.5,6225.0,13.0,8
+Honda,Civic EX Coupe 2D,Good,7800.0,7800.0,7800.0,1
+Honda,Civic EX-L Hatchback,Good,26500.0,26500.0,26500.0,1
+Honda,Civic HYBRID,Good,2795.0,2795.0,2795.0,1
+Honda,Civic Hatchback,Good,5500.0,5500.0,5500.0,1
+Honda,Civic Hybrid,Fair,3000.0,3000.0,3000.0,1
+Honda,Civic Hybrid,Good,2933.3333333333335,2800.0,2000.0,3
+Honda,Civic LX,Fair,11150.0,11150.0,5500.0,2
+Honda,Civic LX,Good,9068.75,8350.0,4200.0,8
+Honda,Civic LX Sedan,Excellent,5000.0,5000.0,5000.0,1
+Honda,Civic LX Sedan,Fair,9450.0,9450.0,8900.0,2
+Honda,Civic LX Sedan,Good,8000.0,8000.0,8000.0,1
+Honda,Civic LX Sedan (4 Door),Good,7000.0,7000.0,7000.0,1
+Honda,Civic LX Sedan 4Door,Excellent,7500.0,7500.0,7500.0,1
+Honda,Civic LX-S,Good,2900.0,2900.0,2900.0,1
+Honda,Civic Lx Coupe,Good,8850.0,8850.0,8850.0,1
+Honda,Civic SI Coupe,Good,5900.0,5900.0,5900.0,1
+Honda,Civic Si,Excellent,17500.0,17500.0,17500.0,1
+Honda,Civic Sport Turbo,Good,24000.0,24000.0,24000.0,1
+Honda,Civic V-TEC,Good,3500.0,3500.0,3500.0,1
+Honda,Civic coupe,Good,1800.0,1800.0,1800.0,1
+Honda,Civic ex,Good,1400.0,1400.0,1400.0,1
+Honda,Cr-V,Good,7999.0,7999.0,7999.0,1
+Honda,Crv,Fair,7500.0,7500.0,7500.0,1
+Honda,Crv,Good,5200.0,5200.0,5200.0,1
+Honda,Element EX 4WD,Good,7800.0,7800.0,7800.0,1
+Honda,HR-V Sport Utility SUV,Good,9900.0,9900.0,9900.0,2
+Honda,Hatchback (last year model),Excellent,2500.0,2500.0,2500.0,1
+Honda,Insight,Good,8950.0,8950.0,8950.0,1
+Honda,Not Available,Good,5800.0,5800.0,5800.0,1
+Honda,Not available,Good,19250.0,19250.0,15500.0,2
+Honda,civic,Fair,2500.0,2500.0,2500.0,1
+Honda,civic,Good,4200.0,4200.0,4200.0,1
+Honda,civic EX,Good,13.0,13.0,13.0,5
+Honda,not available,Good,9500.0,9500.0,9500.0,1
+Honda,unknown,Good,6199.0,6199.0,6199.0,1
+Honda Accord,Accord,Fair,1.0,1.0,1.0,1
+"Honda or similar (e.g. Hyundai, VW, Ford, Nissan)","Civic or similar (e.g. Elantra, Jetta, Vibe, Focus, Versa)",Good,4800.0,4800.0,4800.0,1
+Hyundai,Elantra,Good,21500.0,21500.0,21500.0,1
+Hyundai,Elantra SE,Good,21500.0,21500.0,21500.0,1
+Impala,SS Hard Top,Good,54998.0,54998.0,54998.0,1
+Impala,not available,Good,2500.0,2500.0,2500.0,1
+Infiniti,Q45,Good,2450.0,2450.0,2450.0,7
+Jaguar,XF,Good,9995.0,9995.0,9995.0,3
+Jaguar,XF 35T Supercharged,Good,9995.0,9995.0,9995.0,3
+Japanese,Not available,Good,4200.0,4200.0,4200.0,1
+Jetta,Jet,Fair,2600.0,2600.0,2000.0,2
+Kia,Rio,Fair,1495.0,1495.0,1495.0,7
+Lexus,Is350,Good,4250.0,4250.0,4250.0,5
+Lexus,Sc430 Convertible,Good,8950.0,8950.0,8950.0,7
+Lexus,UX200,Fair,25750.0,25750.0,25750.0,1
+Lexus,UX200 SUV,Fair,25750.0,25750.0,25750.0,1
+Lexus,is300,Excellent,5600.0,5600.0,5600.0,1
+MAZDA,MAZDA3,Good,2999.0,2999.0,2999.0,1
+MAZDA3,Mazda3 Grand Touring Sedan,Good,12800.0,12800.0,12800.0,1
+Mazda,3,Excellent,20000.0,20000.0,20000.0,1
+Mazda,3,Fair,3216.6666666666665,3700.0,2000.0,3
+Mazda,3,Good,7539.8,5250.0,2500.0,10
+Mazda,3 GT hatchback,Good,6000.0,6000.0,6000.0,1
+Mazda,3 Grand Touring Sedan,Good,17998.0,17998.0,17998.0,3
+Mazda,3 Sedan,Excellent,6900.0,6900.0,6900.0,4
+Mazda,3 pass,Good,4500.0,4500.0,4500.0,1
+Mazda,3 s,Good,2650.0,2650.0,2650.0,1
+Mazda,6 Grand Touring Sport Wagon 4D,Fair,5400.0,5400.0,5400.0,1
+Mazda,CX-9 Grand Touring,Good,17000.0,17000.0,17000.0,1
+Mazda,CX5 Grand Touring,Fair,20500.0,20500.0,20500.0,1
+Mazda,CX7,Fair,3350.0,3350.0,3350.0,1
+Mazda,Miata,Good,8000.0,8000.0,8000.0,1
+Mazda,Miata MX-5,Good,5295.0,5295.0,5295.0,1
+Mazda,SKYACTIV-G,Good,6200.0,6200.0,6200.0,1
+Mazda3-S Grand Touring (5-Door Hatchback),Mazda3-S Grand Touring,Good,5250.0,5250.0,5250.0,1
+Mercedes,E350,Good,13000.0,13000.0,13000.0,2
+Mercedes,GLA 250,Good,13400.0,13400.0,13400.0,1
+Mercedes,GLA 250 4matic AWD 4x4,Good,13400.0,13400.0,13400.0,1
+Mitsubishi,Galant,Good,3865.3333333333335,3998.0,3998.0,3
+NISSAN,ALTIMA 2.5 SL,Fair,3800.0,3800.0,3800.0,1
+Nisan,Altima,Good,4800.0,4800.0,4800.0,1
+Nissan,Altima,Excellent,6500.0,6500.0,6500.0,3
+Nissan,Altima,Fair,6100.0,6400.0,3600.0,6
+Nissan,Altima,Good,5713.888888888889,4300.0,3800.0,18
+Nissan,Altima 2.5,Good,2900.0,2900.0,2900.0,1
+Nissan,Altima 2.5 SR Sedan,Fair,23000.0,23000.0,23000.0,1
+Nissan,Altima 2.5S,Good,1599.0,1599.0,1599.0,1
+Nissan,Altima 3.5,Good,2950.0,2950.0,2950.0,1
+Nissan,Altima Coupe S,Good,4250.0,4250.0,4250.0,7
+Nissan,Altima Hybrid,Good,4098.75,4100.0,2200.0,4
+Nissan,Altima S,Good,10200.0,10200.0,10200.0,1
+Nissan,Altima SE-6,Good,4500.0,4500.0,4500.0,1
+Nissan,Altima Sedan,Good,7900.0,7900.0,7900.0,1
+Nissan,Leaf,Good,1950.0,1950.0,1950.0,7
+Nissan,Pathfinder,Excellent,11200.0,11200.0,11200.0,2
+Nissan,SV hatchback,Excellent,5000.0,5000.0,5000.0,1
+Nissan,Versa,Fair,4700.0,4700.0,4000.0,2
+Nissan,Versa,Good,7700.0,7700.0,7700.0,1
+Nissan,Versa Hatchback,Excellent,3600.0,3600.0,3600.0,1
+Nissan,Versa Note,Good,6450.0,6450.0,4600.0,2
+Nissan,Versa SL,Good,2500.0,2500.0,2500.0,1
+Nissan,Versa SV,Good,5500.0,5500.0,5500.0,1
+Not Available,Not Available,Fair,1950.0,1950.0,1950.0,1
+Not available,Not available,Good,4862.25,3750.0,1950.0,4
+RAV4 Limited,RAV4,Good,14900.0,14900.0,14900.0,1
+SUBARU,Outback,Good,8999.0,8999.0,8999.0,4
+SUBARU,Outback SPORT,Good,8999.0,8999.0,8999.0,1
+SUBARU,Outback SPORT edition,Good,8999.0,8999.0,8999.0,1
+Saab,900 turbo convertible,Good,7350.0,7350.0,7350.0,1
+Scion,XB,Good,4545.0,4545.0,4545.0,1
+Subaru,Forester,Good,3950.0,3950.0,3950.0,2
+Subaru,Forester L,Good,3950.0,3950.0,3950.0,5
+Subaru,Outback,Good,8999.0,8999.0,8999.0,2
+"TDI (not explicitly stated as a make, but likely referring to a Volkswagen model)",Not specified,Good,2895.0,2895.0,2895.0,1
+TOYOTA,CAMRY,Good,12500.0,12500.0,12500.0,1
+TOYOTA,CAMRY HYBRID LE,Good,6500.0,6500.0,6500.0,1
+TOYOTA,CAMRY SOLARA,Fair,6800.0,6800.0,6800.0,1
+TOYOTA,RAV4,Good,8900.0,8900.0,8900.0,1
+TOYOTA,RAV4 XLE Premium SPORT Utility,Good,23599.0,23599.0,23599.0,1
+Tesla,Model 3,Good,21500.0,21500.0,21500.0,1
+Toyota,Avalon XL Sedan,Good,2500.0,2500.0,2500.0,1
+Toyota,Bulletproof 4-cylinder engine with legendary Toyota reliability.,Good,7950.0,7950.0,7950.0,1
+Toyota,Camry,Excellent,9890.0,9890.0,9890.0,1
+Toyota,Camry,Fair,6321.875,5000.0,975.0,8
+Toyota,Camry,Good,5523.518518518518,4500.0,5900.0,27
+Toyota,Camry,Poor,3000.0,3000.0,3000.0,1
+Toyota,Camry CE,Good,1500.0,1500.0,1500.0,1
+Toyota,Camry HYBRID,Good,9200.0,9200.0,9200.0,1
+Toyota,Camry Hybrid,Fair,4200.0,4200.0,2400.0,2
+Toyota,Camry Hybrid,Good,8633.333333333334,4500.0,3900.0,3
+Toyota,Camry Hybrid LE,Good,28000.0,28000.0,28000.0,1
+Toyota,Camry Hybrid XLE,Good,31999.0,31999.0,31999.0,1
+Toyota,Camry LE,Fair,3500.0,3500.0,3500.0,1
+Toyota,Camry LE,Good,5533.333333333333,5850.0,2200.0,6
+Toyota,Camry LE 4D,Good,6000.0,6000.0,6000.0,1
+Toyota,Camry LE Sedan,Good,2100.0,2100.0,2100.0,1
+Toyota,Camry Le,Good,3750.0,3750.0,3750.0,7
+Toyota,Camry SE,Good,14000.0,14000.0,14000.0,1
+Toyota,Camry SE Sedan,Good,12500.0,12500.0,12500.0,1
+Toyota,Camry Solara,Good,3500.0,3500.0,3500.0,3
+Toyota,Camry Solara SE,Fair,5800.0,5800.0,5800.0,1
+Toyota,Camry V6,Good,2500.0,2500.0,2500.0,1
+Toyota,Camry XLE,Fair,3500.0,3500.0,3500.0,2
+Toyota,Camry XLE,Good,3500.0,3500.0,3500.0,1
+Toyota,Camry XLE- ,Good,4900.0,4900.0,4900.0,1
+Toyota,Celica GT,Excellent,5500.0,5500.0,5500.0,1
+Toyota,Corolla,Fair,7433.333333333333,6800.0,12500.0,6
+Toyota,Corolla,Good,6833.92,6200.0,15000.0,25
+Toyota,Corolla Apex,Good,18000.0,18000.0,18000.0,1
+Toyota,Corolla Ce,Good,4500.0,4500.0,4500.0,4
+Toyota,Corolla DX,Good,900.0,900.0,900.0,1
+Toyota,Corolla DX Liftback,Good,9500.0,9500.0,9500.0,1
+Toyota,Corolla Hybrid LE Sedan,Good,20500.0,20500.0,20500.0,1
+Toyota,Corolla LE,Fair,10666.666666666666,12000.0,7500.0,3
+Toyota,Corolla LE,Good,4070.0,4250.0,4250.0,10
+Toyota,Corolla LE ECO Premium,Good,9400.0,9400.0,9400.0,1
+Toyota,Corolla LE Sedan Hybrid,Good,23500.0,23500.0,23500.0,4
+Toyota,Corolla Le Edition Sedan,Fair,8550.0,8550.0,8550.0,1
+Toyota,Corolla Matrix Hatchback,Good,4750.0,4750.0,4750.0,7
+Toyota,Corolla S,Fair,4250.0,4250.0,1300.0,2
+Toyota,Corolla S,Good,8566.666666666666,6900.0,6300.0,3
+Toyota,Corolla SE,Fair,12000.0,12000.0,12000.0,2
+Toyota,Corolla SE,Good,12500.0,12500.0,12500.0,1
+Toyota,Corolla Sport,Good,8899.0,8899.0,8899.0,1
+Toyota,Corolla le,Good,7195.0,7195.0,3400.0,2
+Toyota,Corolla sedan,Fair,4950.0,4950.0,4950.0,1
+Toyota,FJ Cruiser Special Edition,Fair,13900.0,13900.0,13900.0,1
+Toyota,Matrix,Good,6950.0,6950.0,6950.0,1
+Toyota,Matrix,Poor,6300.0,6300.0,6300.0,1
+Toyota,Matrix Wagon,Good,4995.0,4995.0,4995.0,1
+Toyota,Prius,Good,6700.0,6700.0,6700.0,1
+Toyota,RAV 4,Good,20500.0,20500.0,20500.0,1
+Toyota,RAV4,Fair,5200.0,5200.0,5200.0,1
+Toyota,RAV4,Good,9915.666666666666,5847.5,3499.0,6
+Toyota,RAV4 Base,Good,7550.0,7550.0,7550.0,1
+Toyota,RAV4 EV,Good,10000.0,10000.0,10000.0,1
+Toyota,RAV4 Hybrid,Fair,23000.0,23000.0,23000.0,1
+Toyota,RAV4 Hybrid,Good,14900.0,14900.0,14900.0,1
+Toyota,RAV4 Hybrid XLE AWD,Good,31125.0,31125.0,26250.0,2
+Toyota,RAV4 Hybrid XLE Premium Sport Utility 4D,Good,38950.0,38950.0,38950.0,1
+Toyota,RAV4 Limited,Good,12000.0,12000.0,12000.0,1
+Toyota,RAV4 Limited AWD,Good,13995.0,13995.0,13995.0,1
+Toyota,RAV4 Sport Edition,Good,4950.0,4950.0,4950.0,1
+Toyota,REV4,Good,4500.0,4500.0,4500.0,1
+Toyota,RV4,Good,6800.0,6800.0,6800.0,1
+Toyota,Rav 4,Fair,9000.0,9000.0,9000.0,1
+Toyota,Rav4,Good,9614.285714285714,7900.0,3500.0,7
+Toyota,Rav4 Sport,Fair,6950.0,6950.0,6950.0,1
+Toyota,Scion Tc Coupe,Good,3950.0,3950.0,3950.0,6
+Toyota,Solara,Excellent,2699.0,2699.0,2699.0,1
+Toyota,Solara SLE,Good,2500.0,2500.0,2500.0,1
+Toyota,Tacoma,Good,9500.0,9500.0,9500.0,1
+Toyota,Tundra,Good,4535.714285714285,4750.0,4750.0,7
+Toyota,Tundra SR5,Good,4750.0,4750.0,4750.0,3
+Toyota,Tundra SR5 Double Cab,Good,4250.0,4250.0,4250.0,4
+Toyota,Venza Wagon 4D,Good,8700.0,8700.0,8700.0,1
+Toyota,corolla,Good,4500.0,4500.0,4500.0,1
+Toyota,minivan,Good,6550.0,6550.0,6550.0,1
+Toyota,not available,Good,6700.0,6700.0,6700.0,1
+Toyota Scion,Tc Coupe,Good,3950.0,3950.0,3950.0,1
+Unknown,Unknown,Good,4900.0,4900.0,4900.0,1
+VW,GLI,Good,10000.0,10000.0,10000.0,1
+VW,GTI,Fair,8700.0,8700.0,8700.0,1
+VW,GTI,Good,3200.0,3200.0,3200.0,1
+VW,Jetta,Fair,7266.666666666667,7700.0,3200.0,3
+VW,Jetta,Good,2610.0,2500.0,2500.0,5
+VW,Jetta 2.5l SE,Good,4100.0,4100.0,4100.0,1
+VW,Jetta SE,Good,3800.0,3800.0,3800.0,1
+VW,Jetta SE 2.5L,Good,4300.0,4300.0,4300.0,1
+VW,Jetta Sportwagen,Fair,8400.0,8400.0,8400.0,1
+VW,Touareg,Good,7900.0,7900.0,7900.0,1
+VW,Touareg TDI SUV,Good,7900.0,7900.0,7900.0,1
+Volkswagen,JETTA,Good,6200.0,6200.0,6200.0,1
+Volkswagen,Jetta,Fair,3500.0,3500.0,3500.0,1
+Volkswagen,Jetta,Good,5475.0,5200.0,3000.0,4
+Volkswagen,Jetta GL,Good,3090.0,3090.0,3090.0,1
+Volkswagen,Jetta GLI,Good,8900.0,8900.0,8900.0,1
+Volkswagen,Jetta GLI Autobahn Sedan 4D,Good,8499.0,8499.0,8499.0,1
+Volkswagen,Jetta SE Sedan 4D,Good,5995.0,5995.0,5995.0,1
+Volkswagen,Jetta TDI,Excellent,7500.0,7500.0,7500.0,1
+Volkswagen,Jetta TDI wagon,Good,6500.0,6500.0,6500.0,1
+Volkswagen,Jetta TSI,Good,10000.0,10000.0,10000.0,1
+Volkswagon,Rabbit,Fair,5800.0,5800.0,5800.0,1
+Volvo,V50 Wagon,Good,4950.0,4950.0,4950.0,7
+Volvo,V70 Wagon,Good,5950.0,5950.0,5950.0,7
+Volvo,XC 90,Good,2950.0,2950.0,2950.0,7
+"['Accord', 'Civic', 'Odyssey']","['4spd 3.0 V6 Accord', '5spd V6-4Cyl Accord', '4spd 4Cyl Civic', '00-05 4spd 4Cyl Civic', '99-01 4spd 3.5 V6 Odyssey', '02-07 5spd 3.5 V6 Odyssey']",Fair,1.0,1.0,1.0,1
+"['Accord', 'Civic', 'Odyssey']","['4spd 3.0 V6 Accord', '5spd V6-4Cyl Accord', '4spd 4Cyl Civic', '4spd 4Cyl Civic', '4spd 3.5 V6 Odyssey', '5spd 3.5 V6 Odyssey']",Fair,1.0,1.0,1.0,1
+"['Accord', 'Civic', 'Odyssey']","['Accord', 'Accord', 'Civic', 'Civic', 'Odyssey', 'Odyssey']",Fair,1.0,1.0,1.0,1
+"['Accord', 'Civic', 'Odyssey']","['Accord', 'Civic', 'Odyssey']",Fair,1.0,1.0,1.0,3
+"['Ford', 'Ford', 'Lexus']","['Fusion', 'Fusion', '']",Good,999.0,999.0,999.0,1
+"['Honda', 'Honda']","['CR-V Touring', 'Accord Sport 2.0T']",Good,1.0,1.0,1.0,1
+['Honda'],"['Accord', 'Civic', 'Odyssey']",Fair,1.0,1.0,1.0,2
+civic,si,Good,7800.0,7800.0,7800.0,1
+empty,empty,Excellent,1750.0,1750.0,1750.0,1
+ford,Explorer,Good,2300.0,2300.0,2300.0,1
+ford,focus Zx3 hatchback,Good,2300.0,2300.0,2300.0,1
+honda,accord,Good,2412.5,2412.5,25.0,2
+honda,accord sport,Good,1.0,1.0,1.0,1
+honda,accord v6,Good,6300.0,6300.0,6300.0,1
+honda,civic,Fair,10500.0,10500.0,10500.0,1
+honda,civic si,Good,12300.0,12300.0,12300.0,1
+honda,crv,Fair,1.0,1.0,1.0,1
+nissan,altima,Good,4700.0,4700.0,4700.0,1
+not available,not available,Fair,7750.0,7750.0,3500.0,2
+not available,not available,Good,8769.8,6800.0,4800.0,5
+"not mentioned explicitly, but similar to Honda, Hyundai, VW, Pontiac, Ford, and Nissan models mentioned","similar to Civic, Elantra, Jetta, Vibe, Focus, Versa",Good,4800.0,4800.0,4800.0,1
+si coupé premium,salvage title,Fair,8950.0,8950.0,8950.0,1
+unknown,unknown,Fair,6000.0,6000.0,6000.0,1
+vw,Jetta,Excellent,6500.0,6500.0,6500.0,1
