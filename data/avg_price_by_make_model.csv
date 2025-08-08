@@ -1,0 +1,351 @@
+make,model_name,avg_price,listing_count
+Accord,Lx,1999.0,1
+Accord,Sport,20250.0,2
+Acura,RL,3800.0,1
+Altima,SV,6300.0,1
+Altima,Sv,5999.0,1
+Audi,A4,3450.0,6
+Audi,A4 Tubro,3450.0,1
+BMW,128I Convertible Limited Edition,10800.0,2
+BMW,330ci E46 model,4400.0,1
+BMW,750Li,7000.0,1
+BMW,X3 xDrive35i,13850.0,2
+BMW,X5,4400.0,2
+Buick,Thunderbird,6800.0,1
+CR-V,CR-V,3750.0,1
+CRV,not available,5500.0,1
+CRV,unknown,4600.0,1
+Cadillac,Deville,4900.0,1
+Camry,LE,6900.0,1
+Camry,Not available,4800.0,1
+Camry,Toyota,11000.0,1
+Camry,XLE V6,1000.0,1
+Camry,not available,3200.0,1
+Camry,v6,1500.0,1
+Chevrolet,Bolt Ev,11500.0,2
+Chevrolet,C10 Blazer,92000.0,1
+Chevrolet,Express 1500 Camper Van RV,15999.0,1
+Chevrolet,Impala,32350.0,4
+Chevrolet,Impala Convertible SS 427,39500.0,1
+Chevrolet,Impala SS 396 convertible,55000.0,1
+Chevrolet,SS,22500.0,1
+Chevrolet,Town Sedan,25.0,1
+Chevy,Impala,9627.5,4
+Chevy,Impala Convertible,123456789.0,1
+Chevy,Impala Limited,8500.0,1
+Chevy,Impala Super Sport,35000.0,1
+Chevy,Silverado,18500.0,2
+Chevy,Sonic Lt,4250.0,6
+Chevy,Tahoe LS,4500.0,3
+Chevy,Tahoe LS SUV,4500.0,4
+Chrysler,ST REGIS,12500.0,1
+Civic,Civic,10500.0,1
+Civic,Dx,1000.0,1
+Civic,EXT,12495.0,1
+Civic,LX,600.0,1
+Civic,Si,18500.0,1
+Corolla,CE,3800.0,1
+Corolla,LE,4450.0,1
+Corolla,S,3000.0,1
+Corolla,Wagon,3500.0,1
+Corolla,corolla,7900.0,1
+DODGE,RAM 1500,2950.0,5
+DODGE,RAM 1500 Truck,2950.0,1
+Dodge,RAM 1500,2950.0,1
+FORD,EXPLORER SPORT,9975.0,1
+FORD,FOCUS,4000.0,1
+Focus,SE,4200.0,1
+Ford,Crown Victoria,4750.0,4
+Ford,Crown Victoria LX,4750.0,3
+Ford,Explorer,5074.807692307692,26
+Ford,Explorer Limited,12099.5,2
+Ford,Explorer Sport,3000.0,1
+Ford,Explorer Sport Trac,3200.0,1
+Ford,Explorer Sport platinum,15500.0,1
+Ford,Explorer XLT,4675.0,4
+Ford,F-150,4950.0,7
+Ford,Fiesta,6500.0,5
+Ford,Focus,4058.217391304348,23
+Ford,Focus Electric,4900.0,1
+Ford,Focus SE,5150.0,2
+Ford,Focus ST,13200.0,2
+Ford,Focus ZX3,2150.0,1
+Ford,Focus ZX4 SE,2750.0,6
+Ford,Focus hatchback,5500.0,1
+Ford,FocusSE Hatchback 4D,5800.0,1
+Ford,Fusion,7000.0,1
+Ford,Fusion SEL,7000.0,1
+Ford,Mustang,21500.0,1
+Ford,Mustang Mach1 Coupe,17981.0,1
+Ford,Windstar Van,1995.0,3
+Ford,explorer,10500.0,1
+GMC,HARBOR UTILITY BED,10500.0,1
+Geo,Prizm/Toyota Corolla,5300.0,1
+HONDA,ACCORD,8266.666666666666,3
+HONDA,ACCORD 2DR COUPE EX,1999.0,1
+HONDA,ACCORD EX COUPE,2200.0,1
+HONDA,CIVIC,7800.0,1
+HONDA,CIVIC LX,3000.0,1
+HONDA,CR-V LX,10647.5,2
+HONDA,CRV,4700.0,1
+Honda,Accord,6108.5142857142855,35
+Honda,Accord 2D Coupe,6500.0,1
+Honda,Accord DX,3500.0,1
+Honda,Accord EX,4850.0,8
+Honda,Accord EX-L,6374.5,2
+Honda,Accord EX-L Hybrid,17800.0,1
+Honda,Accord EX-L V6 Sedan,7500.0,1
+Honda,Accord EXL,5650.0,2
+Honda,Accord EXL 1.5,20950.0,1
+Honda,Accord EXL v6,6000.0,1
+Honda,Accord Ex,4075.0,2
+Honda,Accord Hybrid,3750.0,1
+Honda,Accord Hybrid Touring,12000.0,1
+Honda,Accord LX,4599.75,4
+Honda,Accord LX Sedan 4-DOORS,6995.0,1
+Honda,Accord SE,7100.0,2
+Honda,Accord Sport,8374.75,4
+Honda,Accord Sport 2.0T,19800.0,2
+Honda,Accord Touring Sedan,24995.0,1
+Honda,Accord V6 EXL,19500.0,1
+Honda,Accord lx,4500.0,1
+Honda,Accord sports,16500.0,1
+Honda,CR-V,9426.666666666666,12
+Honda,CR-V (CRV),13500.0,1
+Honda,CR-V EX,16500.0,1
+Honda,CR-V EX AWD,24500.0,1
+Honda,CR-V EX-L,7622.5,2
+Honda,CR-V Ex,8500.0,1
+Honda,CR-V Hybrid AWD Sport Touring,33500.0,1
+Honda,CR-V LX,10450.0,1
+Honda,CR-V LX 4D,8800.0,1
+Honda,CR-V Sport Utility 4D,4300.0,1
+Honda,CRV,9442.857142857143,7
+Honda,CRV Ex,5500.0,1
+Honda,CRV LX,10300.0,2
+Honda,CRV Touring,1.0,1
+Honda,CRX,3500.0,1
+Honda,Civic,5484.448275862069,29
+Honda,Civic (Hybrid),4450.0,2
+Honda,Civic Coupe,4600.0,1
+Honda,Civic Coupe Turbo,7500.0,1
+Honda,Civic DX,3382.5,2
+Honda,Civic Dx hatchback,5800.0,1
+Honda,Civic EX,6934.5,8
+Honda,Civic EX Coupe 2D,7800.0,1
+Honda,Civic EX-L Hatchback,26500.0,1
+Honda,Civic HYBRID,2795.0,1
+Honda,Civic Hatchback,5500.0,1
+Honda,Civic Hybrid,2950.0,4
+Honda,Civic LX,9485.0,10
+Honda,Civic LX Sedan,7975.0,4
+Honda,Civic LX Sedan (4 Door),7000.0,1
+Honda,Civic LX Sedan 4Door,7500.0,1
+Honda,Civic LX-S,2900.0,1
+Honda,Civic Lx Coupe,8850.0,1
+Honda,Civic SI Coupe,5900.0,1
+Honda,Civic Si,17500.0,1
+Honda,Civic Sport Turbo,24000.0,1
+Honda,Civic V-TEC,3500.0,1
+Honda,Civic coupe,1800.0,1
+Honda,Civic ex,1400.0,1
+Honda,Cr-V,7999.0,1
+Honda,Crv,6350.0,2
+Honda,Element EX 4WD,7800.0,1
+Honda,HR-V Sport Utility SUV,9900.0,2
+Honda,Hatchback (last year model),2500.0,1
+Honda,Insight,8950.0,1
+Honda,Not Available,5800.0,1
+Honda,Not available,19250.0,2
+Honda,civic,3350.0,2
+Honda,civic EX,13.0,5
+Honda,not available,9500.0,1
+Honda,unknown,6199.0,1
+Honda Accord,Accord,1.0,1
+"Honda or similar (e.g. Hyundai, VW, Ford, Nissan)","Civic or similar (e.g. Elantra, Jetta, Vibe, Focus, Versa)",4800.0,1
+Hyundai,Elantra,21500.0,1
+Hyundai,Elantra SE,21500.0,1
+Impala,SS Hard Top,54998.0,1
+Impala,not available,2500.0,1
+Infiniti,Q45,2450.0,7
+Jaguar,XF,9995.0,3
+Jaguar,XF 35T Supercharged,9995.0,3
+Japanese,Not available,4200.0,1
+Jetta,Jet,2600.0,2
+Kia,Rio,1495.0,7
+Lexus,Is350,4250.0,5
+Lexus,Sc430 Convertible,8950.0,7
+Lexus,UX200,25750.0,1
+Lexus,UX200 SUV,25750.0,1
+Lexus,is300,5600.0,1
+MAZDA,MAZDA3,2999.0,1
+MAZDA3,Mazda3 Grand Touring Sedan,12800.0,1
+Mazda,3,7503.428571428572,14
+Mazda,3 GT hatchback,6000.0,1
+Mazda,3 Grand Touring Sedan,17998.0,3
+Mazda,3 Sedan,6900.0,4
+Mazda,3 pass,4500.0,1
+Mazda,3 s,2650.0,1
+Mazda,6 Grand Touring Sport Wagon 4D,5400.0,1
+Mazda,CX-9 Grand Touring,17000.0,1
+Mazda,CX5 Grand Touring,20500.0,1
+Mazda,CX7,3350.0,1
+Mazda,Miata,8000.0,1
+Mazda,Miata MX-5,5295.0,1
+Mazda,SKYACTIV-G,6200.0,1
+Mazda3-S Grand Touring (5-Door Hatchback),Mazda3-S Grand Touring,5250.0,1
+Mercedes,E350,13000.0,2
+Mercedes,GLA 250,13400.0,1
+Mercedes,GLA 250 4matic AWD 4x4,13400.0,1
+Mitsubishi,Galant,3865.3333333333335,3
+NISSAN,ALTIMA 2.5 SL,3800.0,1
+Nisan,Altima,4800.0,1
+Nissan,Altima,5887.037037037037,27
+Nissan,Altima 2.5,2900.0,1
+Nissan,Altima 2.5 SR Sedan,23000.0,1
+Nissan,Altima 2.5S,1599.0,1
+Nissan,Altima 3.5,2950.0,1
+Nissan,Altima Coupe S,4250.0,7
+Nissan,Altima Hybrid,4098.75,4
+Nissan,Altima S,10200.0,1
+Nissan,Altima SE-6,4500.0,1
+Nissan,Altima Sedan,7900.0,1
+Nissan,Leaf,1950.0,7
+Nissan,Pathfinder,11200.0,2
+Nissan,SV hatchback,5000.0,1
+Nissan,Versa,5700.0,3
+Nissan,Versa Hatchback,3600.0,1
+Nissan,Versa Note,6450.0,2
+Nissan,Versa SL,2500.0,1
+Nissan,Versa SV,5500.0,1
+Not Available,Not Available,1950.0,1
+Not available,Not available,4862.25,4
+RAV4 Limited,RAV4,14900.0,1
+SUBARU,Outback,8999.0,4
+SUBARU,Outback SPORT,8999.0,1
+SUBARU,Outback SPORT edition,8999.0,1
+Saab,900 turbo convertible,7350.0,1
+Scion,XB,4545.0,1
+Subaru,Forester,3950.0,2
+Subaru,Forester L,3950.0,5
+Subaru,Outback,8999.0,2
+"TDI (not explicitly stated as a make, but likely referring to a Volkswagen model)",Not specified,2895.0,1
+TOYOTA,CAMRY,12500.0,1
+TOYOTA,CAMRY HYBRID LE,6500.0,1
+TOYOTA,CAMRY SOLARA,6800.0,1
+TOYOTA,RAV4,8900.0,1
+TOYOTA,RAV4 XLE Premium SPORT Utility,23599.0,1
+Tesla,Model 3,21500.0,1
+Toyota,Avalon XL Sedan,2500.0,1
+Toyota,Bulletproof 4-cylinder engine with legendary Toyota reliability.,7950.0,1
+Toyota,Camry,5745.945945945946,37
+Toyota,Camry CE,1500.0,1
+Toyota,Camry HYBRID,9200.0,1
+Toyota,Camry Hybrid,6860.0,5
+Toyota,Camry Hybrid LE,28000.0,1
+Toyota,Camry Hybrid XLE,31999.0,1
+Toyota,Camry LE,5242.857142857143,7
+Toyota,Camry LE 4D,6000.0,1
+Toyota,Camry LE Sedan,2100.0,1
+Toyota,Camry Le,3750.0,7
+Toyota,Camry SE,14000.0,1
+Toyota,Camry SE Sedan,12500.0,1
+Toyota,Camry Solara,3500.0,3
+Toyota,Camry Solara SE,5800.0,1
+Toyota,Camry V6,2500.0,1
+Toyota,Camry XLE,3500.0,3
+Toyota,Camry XLE- ,4900.0,1
+Toyota,Celica GT,5500.0,1
+Toyota,Corolla,6949.935483870968,31
+Toyota,Corolla Apex,18000.0,1
+Toyota,Corolla Ce,4500.0,4
+Toyota,Corolla DX,900.0,1
+Toyota,Corolla DX Liftback,9500.0,1
+Toyota,Corolla Hybrid LE Sedan,20500.0,1
+Toyota,Corolla LE,5592.307692307692,13
+Toyota,Corolla LE ECO Premium,9400.0,1
+Toyota,Corolla LE Sedan Hybrid,23500.0,4
+Toyota,Corolla Le Edition Sedan,8550.0,1
+Toyota,Corolla Matrix Hatchback,4750.0,7
+Toyota,Corolla S,6840.0,5
+Toyota,Corolla SE,12166.666666666666,3
+Toyota,Corolla Sport,8899.0,1
+Toyota,Corolla le,7195.0,2
+Toyota,Corolla sedan,4950.0,1
+Toyota,FJ Cruiser Special Edition,13900.0,1
+Toyota,Matrix,6625.0,2
+Toyota,Matrix Wagon,4995.0,1
+Toyota,Prius,6700.0,1
+Toyota,RAV 4,20500.0,1
+Toyota,RAV4,9242.0,7
+Toyota,RAV4 Base,7550.0,1
+Toyota,RAV4 EV,10000.0,1
+Toyota,RAV4 Hybrid,18950.0,2
+Toyota,RAV4 Hybrid XLE AWD,31125.0,2
+Toyota,RAV4 Hybrid XLE Premium Sport Utility 4D,38950.0,1
+Toyota,RAV4 Limited,12000.0,1
+Toyota,RAV4 Limited AWD,13995.0,1
+Toyota,RAV4 Sport Edition,4950.0,1
+Toyota,REV4,4500.0,1
+Toyota,RV4,6800.0,1
+Toyota,Rav 4,9000.0,1
+Toyota,Rav4,9614.285714285714,7
+Toyota,Rav4 Sport,6950.0,1
+Toyota,Scion Tc Coupe,3950.0,6
+Toyota,Solara,2699.0,1
+Toyota,Solara SLE,2500.0,1
+Toyota,Tacoma,9500.0,1
+Toyota,Tundra,4535.714285714285,7
+Toyota,Tundra SR5,4750.0,3
+Toyota,Tundra SR5 Double Cab,4250.0,4
+Toyota,Venza Wagon 4D,8700.0,1
+Toyota,corolla,4500.0,1
+Toyota,minivan,6550.0,1
+Toyota,not available,6700.0,1
+Toyota Scion,Tc Coupe,3950.0,1
+Unknown,Unknown,4900.0,1
+VW,GLI,10000.0,1
+VW,GTI,5950.0,2
+VW,Jetta,4356.25,8
+VW,Jetta 2.5l SE,4100.0,1
+VW,Jetta SE,3800.0,1
+VW,Jetta SE 2.5L,4300.0,1
+VW,Jetta Sportwagen,8400.0,1
+VW,Touareg,7900.0,1
+VW,Touareg TDI SUV,7900.0,1
+Volkswagen,JETTA,6200.0,1
+Volkswagen,Jetta,5080.0,5
+Volkswagen,Jetta GL,3090.0,1
+Volkswagen,Jetta GLI,8900.0,1
+Volkswagen,Jetta GLI Autobahn Sedan 4D,8499.0,1
+Volkswagen,Jetta SE Sedan 4D,5995.0,1
+Volkswagen,Jetta TDI,7500.0,1
+Volkswagen,Jetta TDI wagon,6500.0,1
+Volkswagen,Jetta TSI,10000.0,1
+Volkswagon,Rabbit,5800.0,1
+Volvo,V50 Wagon,4950.0,7
+Volvo,V70 Wagon,5950.0,7
+Volvo,XC 90,2950.0,7
+"['Accord', 'Civic', 'Odyssey']","['4spd 3.0 V6 Accord', '5spd V6-4Cyl Accord', '4spd 4Cyl Civic', '00-05 4spd 4Cyl Civic', '99-01 4spd 3.5 V6 Odyssey', '02-07 5spd 3.5 V6 Odyssey']",1.0,1
+"['Accord', 'Civic', 'Odyssey']","['4spd 3.0 V6 Accord', '5spd V6-4Cyl Accord', '4spd 4Cyl Civic', '4spd 4Cyl Civic', '4spd 3.5 V6 Odyssey', '5spd 3.5 V6 Odyssey']",1.0,1
+"['Accord', 'Civic', 'Odyssey']","['Accord', 'Accord', 'Civic', 'Civic', 'Odyssey', 'Odyssey']",1.0,1
+"['Accord', 'Civic', 'Odyssey']","['Accord', 'Civic', 'Odyssey']",1.0,3
+"['Ford', 'Ford', 'Lexus']","['Fusion', 'Fusion', '']",999.0,1
+"['Honda', 'Honda']","['CR-V Touring', 'Accord Sport 2.0T']",1.0,1
+['Honda'],"['Accord', 'Civic', 'Odyssey']",1.0,2
+civic,si,7800.0,1
+empty,empty,1750.0,1
+ford,Explorer,2300.0,1
+ford,focus Zx3 hatchback,2300.0,1
+honda,accord,2412.5,2
+honda,accord sport,1.0,1
+honda,accord v6,6300.0,1
+honda,civic,10500.0,1
+honda,civic si,12300.0,1
+honda,crv,1.0,1
+nissan,altima,4700.0,1
+not available,not available,8478.42857142857,7
+"not mentioned explicitly, but similar to Honda, Hyundai, VW, Pontiac, Ford, and Nissan models mentioned","similar to Civic, Elantra, Jetta, Vibe, Focus, Versa",4800.0,1
+si coupé premium,salvage title,8950.0,1
+unknown,unknown,6000.0,1
+vw,Jetta,6500.0,1
