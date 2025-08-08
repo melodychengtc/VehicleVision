@@ -1,5 +1,3 @@
-.venv
-
 images/
 img/
 
@@ -10,3 +8,25 @@ __pyache__/
 .mlops/
 
 VehicleVision/models/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data & logs (customize as needed)
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
